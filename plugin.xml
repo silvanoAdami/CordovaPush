@@ -84,7 +84,7 @@
     	<source-file src="src/android/GcmReceiver.java" target-dir="src/co/realtime/plugins/android/cordovapush" />
         <source-file src="src/android/OrtcPushPlugin.java" target-dir="src/co/realtime/plugins/android/cordovapush" />
 	<source-file src="src/android/libs/ortc-android-2.1.26.jar" target-dir="libs/"/> 
-	<dependency id="cordova-plugin-android-support-v4" />
+	<source-file src="src/android/libs/android-support-v4.jar" target-dir="libs/"/> 
 	<dependency id="cordova-plugin-googleplayservices" />
     </platform>
 

@@ -1,4 +1,4 @@
-<h1>Cordova Push Notifications for iOS/Android</h1>
+<h1>Cordova Push Notifications for iOS/Android FacebookConnect_Compatible</h1>
 <h2> (using Realtime Messaging)</h2>
 
 
